@@ -1,2 +1,3 @@
 belajar Git
 belajar branch
+belajar merge
